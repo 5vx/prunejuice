@@ -1,2 +1,2 @@
 # prunejuice
- A Roblox bootstrapper designed for powerusers
+ Lightweight Roblox bootstrapper designed for powerusers
